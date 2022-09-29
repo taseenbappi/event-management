@@ -11,7 +11,7 @@ const Events = () => {
             <div className="container">
                 <div className="row ">
 
-                    <div className="col-12 col-sm-12 col-md-12 pt-lg-0 pt-4 pt-md-4 col-lg-6 order-2 order-md-2 order-lg-1">
+                    <div className="col-12 col-sm-12 col-md-12 col-lg-6 pt-lg-0 pt-4 pt-md-4 order-2 order-md-2 order-lg-1">
 
                         <div className="event-header">
                             <h1 className='event-title'>Birthday Bash</h1>
@@ -55,6 +55,7 @@ const Events = () => {
                     <div className="p-0 p-lg-1 p-md-1 col-12 col-sm-12 col-md-12 col-lg-6 order-1 order-md-1 order-lg-2 ">
                         <img src={cakeImg} alt="" className='img-fluid event-cake-img' />
                     </div>
+
                 </div>
 
             </div>

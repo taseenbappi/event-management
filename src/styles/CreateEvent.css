@@ -1,0 +1,48 @@
+.create-event-page {
+    background: #DDDDDD;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-event-header {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 55px;
+    color: #240D57;
+}
+
+.form-label-title {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #4F4F4F;
+}
+
+.event-input-field {
+    padding: .5rem;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    color: #4F4F4F;
+}
+
+.submit-event-btn {
+    background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+    border-radius: 10px;
+    border: 0;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: right;
+    color: #FFFFFF;
+    padding: .7rem 1.5rem;
+
+}
